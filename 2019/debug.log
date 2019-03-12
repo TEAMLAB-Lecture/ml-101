@@ -1,0 +1,87 @@
+[17524:13016:0206/111911.913:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=F:\workspace\machine_learning_from_scratch_with_python\\\"123\"\Atom Crashes" --v=1]
+[17524:13016:0206/111911.918:VERBOSE1:crash_service.cc(142)] window handle is 0000000000220B6A
+[17524:13016:0206/111911.918:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes
+[17524:13016:0206/111911.918:VERBOSE1:crash_service.cc(288)] checkpoint is F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[17524:13016:0206/111911.918:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[17524:5564:0206/111911.918:VERBOSE1:crash_service.cc(317)] client start. pid = 17444
+[17524:5564:0206/111912.875:VERBOSE1:crash_service.cc(317)] client start. pid = 13796
+[14448:13520:0206/111912.894:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=F:\workspace\machine_learning_from_scratch_with_python\\\"123\"\Atom Crashes" --v=1]
+[14448:13520:0206/111912.899:VERBOSE1:crash_service.cc(142)] window handle is 0000000002E90D80
+[14448:13520:0206/111912.899:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes
+[14448:13520:0206/111912.899:VERBOSE1:crash_service.cc(288)] checkpoint is F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[14448:13520:0206/111912.899:ERROR:crash_service.cc(295)] could not start dumper
+[17524:12156:0206/114133.119:VERBOSE1:crash_service.cc(325)] client end. pid = 13796
+[17524:12156:0206/114133.179:VERBOSE1:crash_service.cc(325)] client end. pid = 17444
+[17524:12156:0206/114134.180:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[17524:13016:0206/114134.180:VERBOSE1:crash_service.cc(486)] session ending..
+[17524:13016:0206/114134.180:VERBOSE1:crash_service.cc(491)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[17524:13016:0206/114134.180:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[8500:5680:0206/114153.489:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=F:\workspace\machine_learning_from_scratch_with_python\\\"123\"\Atom Crashes" --v=1]
+[8500:5680:0206/114153.494:VERBOSE1:crash_service.cc(142)] window handle is 0000000002EB0D80
+[8500:5680:0206/114153.494:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes
+[8500:5680:0206/114153.494:VERBOSE1:crash_service.cc(288)] checkpoint is F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[8500:5680:0206/114153.494:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[8500:21940:0206/114153.494:VERBOSE1:crash_service.cc(317)] client start. pid = 20836
+[8500:21940:0206/114154.201:VERBOSE1:crash_service.cc(317)] client start. pid = 19444
+[21892:2452:0206/114154.217:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=F:\workspace\machine_learning_from_scratch_with_python\\\"123\"\Atom Crashes" --v=1]
+[21892:2452:0206/114154.223:VERBOSE1:crash_service.cc(142)] window handle is 00000000002808F8
+[21892:2452:0206/114154.223:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes
+[21892:2452:0206/114154.223:VERBOSE1:crash_service.cc(288)] checkpoint is F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[21892:2452:0206/114154.223:ERROR:crash_service.cc(295)] could not start dumper
+[8500:21872:0206/114241.508:VERBOSE1:crash_service.cc(325)] client end. pid = 19444
+[8500:21872:0206/114241.592:VERBOSE1:crash_service.cc(325)] client end. pid = 20836
+[8500:21872:0206/114242.592:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[8500:5680:0206/114242.592:VERBOSE1:crash_service.cc(486)] session ending..
+[8500:5680:0206/114242.593:VERBOSE1:crash_service.cc(491)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[8500:5680:0206/114242.593:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
+[22260:22096:0206/114251.949:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=F:\workspace\machine_learning_from_scratch_with_python\\\"123\"\Atom Crashes" --v=1]
+[22260:22096:0206/114251.955:VERBOSE1:crash_service.cc(142)] window handle is 000000000012080E
+[22260:22096:0206/114251.955:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes
+[22260:22096:0206/114251.955:VERBOSE1:crash_service.cc(288)] checkpoint is F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[22260:22096:0206/114251.955:VERBOSE1:crash_service_main.cc(94)] Ready to process crash requests
+[22260:4056:0206/114251.955:VERBOSE1:crash_service.cc(317)] client start. pid = 17300
+[22260:4056:0206/114252.648:VERBOSE1:crash_service.cc(317)] client start. pid = 21280
+[3564:1968:0206/114252.663:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=F:\workspace\machine_learning_from_scratch_with_python\\\"123\"\Atom Crashes" --v=1]
+[3564:1968:0206/114252.668:VERBOSE1:crash_service.cc(142)] window handle is 0000000000A006AE
+[3564:1968:0206/114252.668:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes
+[3564:1968:0206/114252.668:VERBOSE1:crash_service.cc(288)] checkpoint is F:\workspace\machine_learning_from_scratch_with_python\"123"\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[3564:1968:0206/114252.668:ERROR:crash_service.cc(295)] could not start dumper
+[22260:22108:0206/114536.771:VERBOSE1:crash_service.cc(325)] client end. pid = 21280
+[22260:22108:0206/114536.823:VERBOSE1:crash_service.cc(325)] client end. pid = 17300
+[22260:22108:0206/114537.824:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[22260:22096:0206/114537.824:VERBOSE1:crash_service.cc(486)] session ending..
+[22260:22096:0206/114537.824:VERBOSE1:crash_service.cc(491)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[22260:22096:0206/114537.824:VERBOSE1:crash_service_main.cc(99)] Session end. return code is 0
