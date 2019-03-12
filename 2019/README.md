@@ -1,21 +1,11 @@
-# Machine Learning from Scratch with Python
-본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 구축한 데이터 사이언스 과정의 두 번째 강의인 `밑바닥 부터 시작하는 머신러닝 입문` 입니다. `밑바닥부터 시작하는 머신러닝 입문`은  Part I과 Part II로 구성되어 있습니다.
-
-본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 준비한 [WADIZ 펀딩](https://www.wadiz.kr/web/campaign/detail/13991)의 지원을 받아제작되었습니다.
-아래 목록에 대한 강의를 개발할 예정입니다.
-- [데이터 과학을 위한 파이썬 입문](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/) - 개발 완료
-- Machnine Learning from Scratch with Python Part I - 본과정
-- Machnine Learning from Scratch with Python Part II
-
-또한 기존 K-MOOC 과정은 아래 목록을 참고하시기 바랍니다.
-- [K-MOOC: 데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
-- [Operation Research with Python Programming](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
+# 데이터과학 2019 SPRING
 
 ## Course overview
-* 강좌명: 밑바닥 부터 시작하는 머신러닝 입문(Machine Learning from Scratch with Python)
+* 강좌명: 데이터과학 입문
+* 데이터과학 연계전공 전공 선택
 * 강의자명: 가천대학교 산업경영공학과 최성철 교수 (sc82.choi@gachon.ac.kr, Director of [TEAMLAB](http://theteamlab.io/))
-* Facebook: [Gachon CS50](https://www.facebook.com/GachonCS50)
 * Email: teamlab.gachon@gmail.com
+* 강의자료 통합 - [link](https://1drv.ms/b/s!ApZ4mg7k2qYhgb53oj9ZihqtFIbLhA)
 
 ## Course Info
 - 본 과정은 머신러닝에 대한 기초개념과 주요 알고리즘들에 대해 이해하고 구현하는 것을 목적으로 함
@@ -26,10 +16,11 @@
 
 
 ## Course Contents
-- Course Overvier = [강의영상](https://www.youtube.com/watch?v=E3WsXxTe4SI&index=1&t=102s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+### Chapter 0
+- Course Overview = [강의영상](https://www.youtube.com/watch?v=E3WsXxTe4SI&index=1&t=102s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 
 ### Chapter 1 - Introduction to Machine Learning
-- Machine learning overview - ~~[강의영상]()~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
+- Machine learning overview - [강의영상](https://www.youtube.com/results?search_query=teamlab+machine+learning), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNi0-Kp-PSXavrlqA)
 - An understanding of the data keywords - [강의영상](https://www.youtube.com/watch?v=1Z-lT4ooSFY&index=3&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNWzCy7_qdMbAAYmQ)
 - How to learn machine learning - [강의영상](https://www.youtube.com/watch?v=-2f3QZsUGp8&index=4&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNX7i9JHPB04EwT3g)
 - Types of machine learning - [강의영상](https://www.youtube.com/watch?v=Xmd-7nLg_Xo&index=5&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNYJGXJnnhTP1Ckgg)
@@ -49,9 +40,12 @@
 - Representing a model with numpy - [강의영상](https://www.youtube.com/watch?v=usEs6GW9mt0&index=13&t=0s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNwy4iBhErFok3ecA)
 
 #### Supplements - Linear algebra
-- Lab: Simple Linear algebra concepts - ~~\[강의영상\]\(\)~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
-- Lab: Simple Linear algebra codes - ~~강의영상~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
-- Assignment: Linear algebra with pythonic code -  [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_bla/lab_bla.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_bla)
+- [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM5mMaDdd-dLeHGRg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_9_code.zip)
+- Map & Reduce - [강의영상](https://www.youtube.com/watch?v=locakgld0iI&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=61&t=0s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMlP65yXLT9nBgcIw)
+- Asterisk - [강의영상](https://www.youtube.com/watch?v=dC_pUe78RMw&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=62&t=0s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMoM3jaeXaYfhNFAg)
+- Lab: Simple Linear algebra concepts- [강의영상](https://www.youtube.com/watch?v=zHQADUWi1pU&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=63&t=0s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
+- Lab: Simple Linear algebra codes - [강의영상](https://www.youtube.com/watch?v=T_axlKMne-0&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=64&t=0s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
+- Assignment: Linear algebra with pythonic code - [강의영상](https://www.youtube.com/watch?v=6g5k-gCT1Lk&t=9s&index=65&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)
 
 
 ### Chapter 3 - Numpy Section
