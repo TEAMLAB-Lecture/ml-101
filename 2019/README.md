@@ -45,7 +45,9 @@
 - Asterisk - [강의영상](https://www.youtube.com/watch?v=dC_pUe78RMw&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=62&t=0s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMoM3jaeXaYfhNFAg)
 - Lab: Simple Linear algebra concepts- [강의영상](https://www.youtube.com/watch?v=zHQADUWi1pU&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=63&t=0s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMuKaE5x8t0z1Z4vw)
 - Lab: Simple Linear algebra codes - [강의영상](https://www.youtube.com/watch?v=T_axlKMne-0&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=64&t=0s), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMv7umjL_JYHsubsA)
-- Assignment: Linear algebra with pythonic code - [강의영상](https://www.youtube.com/watch?v=6g5k-gCT1Lk&t=9s&index=65&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)
+- Assignment: Linear algebra with pythonic code - [숙제설명](./lab_asssigment/0_linear_algebra),
+
+[강의영상](https://www.youtube.com/watch?v=6g5k-gCT1Lk&t=9s&index=65&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)
 
 
 ### Chapter 3 - Numpy Section
