@@ -61,7 +61,6 @@
 - Comparisons - [강의영상](https://www.youtube.com/watch?v=TdVSKlgvdkA&index=22&t=27s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 - Boolean & fancy Index - [강의영상](https://www.youtube.com/watch?v=A2BT1sWKaUE&index=23&t=1s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 - Numpy data i/o - [강의영상](https://www.youtube.com/watch?v=N4KjOIs-2H8&index=24&t=51s&list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
-- Assignment: Numpy in a nutshell -  [PDF](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_numpy.pdf), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/lab_asssigment/1_lab_numpy)
 
 #### Supplements
 - TF-KR 첫 모임: Zen of NumPy - [발표자료](https://speakerdeck.com/shurain/zen-of-numpy), [강의영상](https://www.youtube.com/watch?v=Dm2wkObQSas&index=2&list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) (하성주, 2016)
