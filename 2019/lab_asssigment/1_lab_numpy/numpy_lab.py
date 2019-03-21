@@ -2,20 +2,21 @@ import numpy as np
 
 
 def n_size_ndarray_creation(n, dtype=np.int):
-    pass
+    X = None
+    return X
 
 
 def zero_or_one_or_empty_ndarray(shape, type=0, dtype=np.int):
-    pass
+    X = None
+    return X
 
 
 def change_shape_of_ndarray(X, n_row):
-    pass
+    return X
 
 
 def concat_ndarray(X_1, X_2, axis):
     pass
-
 
 def normalize_ndarray(X, axis=99, dtype=np.float32):
     pass

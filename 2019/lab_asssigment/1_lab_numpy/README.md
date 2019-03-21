@@ -10,26 +10,13 @@ Copyright 2018 © document created by teamLab.gachon@gmail.com
 
 첫 번째 LAB은 Numpy 입니다. Numpy 강의는 사실 그냥 보고만 있으면, 그렇게 어렵지 않게 이해할 수 있습니다. 그러나 실제로 문제를 풀다보면 잘 못하는 경우가 굉장히 많습니다. 그런 사태를 미연에 방지하기 위해 한번 도전해 보도록 합시다.
 
-## backend.ai 설치
-숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
-
-```bash
-pip install backend.ai-client
-```
 
 ## 숙제 파일(lab_numpy.zip) 다운로드
- 먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 아래링크를 다운로드 하거나 Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 아래링크를 다운로드 하거나 Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
- - 링크 [lab_numpy.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip)
- - https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip
+ - 링크 [lab_numpy.zip](./1_lab_numpy.zip)
 
- 또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
- ```bash
- wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/1_lab_numpy.zip
- ```
-
- 다운로드 된 `lab_numpy.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.
- 압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
+다운로드 된 `lab_numpy.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.
 
 
 ## numpy_lab.py 코드 구조
@@ -292,24 +279,41 @@ array([ 0.98935239,  0.98494578,  0.98317255,  0.96859596,  0.96485649])
 # 출력되는 값은 random 하게 바뀜
 ```    
 
-### 숙제 template 파일 제출하기 (윈도우의 경우)
+## 숙제 template 파일 제출하기
 1. <kbd>windows</kbd><sup id="windows"></sup>+<kbd>r</kbd>를 누르고 cmd 입력 후 확인을 클릭합니다.
-2. 작업을 수행한 폴더로 이동 합니다.
-3. 밑에 명령어를 cmd창에 입력합니다.
-```bash
-install.bat
-submit.bat [YOUR_HASH_KEY]
-```
-
-### 숙제 template 파일 제출하기 (Mac or Linux)
-1. 터미널을 구동합니다.
-2. 작업을 수행한 디렉토리로로 이동 합니다.
+2. 아까 작업폴더로 이동한 경로로 이동을 합니다.
 3. 밑에 bash창을 입력합니다.
 ```bash
-bash install.sh
-bash submit.sh [YOUR_HASH_KEY]
+python submit.py
 ```
-> backend.ai 서비스의 업데이트에 의해 실행전 반드시 `bash install.sh` 또는 `install.bat` 수행을 바랍니다.
+
+위 명령어를 입력 하면, 아래와 같은 내용이 띄면서 Login ID와 Password를 물어보게 될 것입니다. http://theteamlab.io 웹 페이지에 가입시 사용했던 Login ID와 비밀번호를 입력합니다.
+
+```bash
+== Submmting solutions | numpy_lab.py
+Login ID:
+Password :
+```
+
+본 명령을 실행하여 프로그램의 문법상 에러가 없을 경우, 아래와 같은 형태로 숙제 제출 확인 메세지를 받게됩니다.
+
+```bash
+== Submmting solutions | numpy_lab.py
+Use token from last successful submission (teamlab)? (Y/n): y
+-------------------- | ---------- | --------------------
+       Function Name |    Passed? |             Feedback
+-------------------- | ---------- | --------------------
+   normalize_ndarray |       PASS |             Good Job
+      concat_ndarray |       PASS |             Good Job
+  find_nearest_value |       PASS |             Good Job
+        save_ndarray |       PASS |             Good Job
+       boolean_index |       PASS |             Good Job
+n_size_ndarray_creation |       PASS |             Good Job
+get_n_largest_values |    Not Yet |     Check Your Logic
+zero_or_one_or_empty_ndarray |       PASS |             Good Job
+change_shape_of_ndarray |       PASS |             Good Job
+-------------------- | ---------- | --------------------
+```
 
 ## Next Work
 고생하셨습니다. 조금 Numpy를 성실하게 공부하셨던 분이라면 어렵지 않게 푸셨을 것 입니다. 지금 잘 이해하는게 정말 중요합니다. Machine Learning 과목에 가장 쉽고 재밌는 숙제였습니다.
