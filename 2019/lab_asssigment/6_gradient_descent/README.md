@@ -8,26 +8,15 @@ Copyright 2018 © by teamLab.gachon@gmail.com
 
 이 번 랩은 우리가 강의를 통해 들은 Gradient descent을 활용하여 LinearRegression 모듈을 구현하는 것을 목표로 합니다. 앞서 우리가 Normal equation lab을 수행하였듯이, LinearRegression 모듈의 구현을 위해서는 numpy와 Python OOP의 기본적인 개념이해가 필요합니다. 실제 Tensorflow의 optimizer나 scikit-learn SGDRegressor의 가장 기본적인 형태로 이해하면 좋겠습니다.
 
-## backend.ai 설치
-숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
-
-```bash
-pip install backend.ai-client
-```
-
-## 숙제 파일(lab_normal_equation.zip) 다운로드
+## 숙제 파일 다운로드
 먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 아래링크를 다운로드 하거나 Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
-- 링크 [lab_gradient_descent.zip](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_gradient_descent.zip)
-- https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_gradient_descent.zip
+ - 링크 [6_gradient_descent.zip](./6_gradient_descent.zip)
 
 
-또는 Mac OS에서는 아래 명령을 쓰셔도 됩니다.
-```bash
- wget https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lab_gradient_descent.zip
-```
+다운로드 된 `6_gradient_descent.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.
 
-다운로드 된 `lab_gradient_descent.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하시길 바랍니다.  압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
+
 
 ## linear_model.py 코드 구조
 본 Lab은 LinearRegressionGD class를 만들기 위해 `linear_model.py` 라는 template 파일을 제공합니다. 앞서 normal equation lab가 모듈명은 동일하나 생성하는 클래스명이 `LinearRegressionGD`으로 차이가 납니다. 제공하는 template 파일은 아래와 같은 구조를 가지며 각 변수와 함수의 역할은 아래 테이블과 같습니다.
@@ -466,24 +455,21 @@ sk_lr.coef_ # array([-1.67779283,  0.28359762,  2.68586629,  1.12816882])
 sk_lr.intercept_ # 11.790740740740736
 ```
 
-### 숙제 template 파일 제출하기 (윈도우의 경우)
+## 숙제 template 파일 제출하기
 1. <kbd>windows</kbd><sup id="windows"></sup>+<kbd>r</kbd>를 누르고 cmd 입력 후 확인을 클릭합니다.
-2. 작업을 수행한 폴더로 이동 합니다.
-3. 밑에 명령어를 cmd창에 입력합니다.
-```bash
-install.bat
-submit.bat [YOUR_HASH_KEY]
-```
-
-### 숙제 template 파일 제출하기 (Mac or Linux)
-1. 터미널을 구동합니다.
-2. 작업을 수행한 디렉토리로로 이동 합니다.
+2. 아까 작업폴더로 이동한 경로로 이동을 합니다.
 3. 밑에 bash창을 입력합니다.
 ```bash
-bash install.sh
-bash submit.sh [YOUR_HASH_KEY]
+python submit.py
 ```
-> backend.ai 서비스의 업데이트에 의해 실행전 반드시 `bash install.sh` 또는 `install.bat` 수행을 바랍니다.
+
+위 명령어를 입력 하면, 아래와 같은 내용이 띄면서 Login ID와 Password를 물어보게 될 것입니다. http://theteamlab.io 웹 페이지에 가입시 사용했던 Login ID와 비밀번호를 입력합니다.
+
+```bash
+== Submmting solutions | linear_model_gd.py
+Login ID:
+Password :
+```
 
 ## Next Work
 고생했습니다. 현대 머신러닝에 있어 가장 핵심이 되는 알고리즘중 하나인 Gradient descent를 구현해보았습니다. Noraml equation과 달리 진짜 프로그래밍을 하는 기분도 많이 들고 Handling 하기 상당히 어려우셨을 거 같습니다.
