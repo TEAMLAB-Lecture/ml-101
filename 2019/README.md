@@ -211,6 +211,8 @@
 - Hyperparmeter searching with Distributed Machines - [강의영상](https://vimeo.com/286889476/c266fa2c2b)
 - AutoML - [강의영상](https://vimeo.com/286543463/3245fb7065)
 
+#### Reference
+- Feature Selection with Null Importances - [한글번역](https://databreak.netlify.com/2019-04-21-Null_importance/?fbclid=IwAR0RAhtKCgo1_WZ-4F8BdG0N5X7GrGqI0QcgepWYYBHL9EdtGW3wsd1P370), [영문원판](https://www.kaggle.com/ogrellier/feature-selection-with-null-importances)
 
 ### Chapter 14 - Support Vector Model
 #### Lecture
