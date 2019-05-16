@@ -158,16 +158,16 @@
 
 ### Chapter 11 - Naive Bayesian Classifier
 #### Lecture
-- Chapter overview - ~~강의영상~~, [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_11.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
-- Probability overview - ~~강의영상~~
-- Bayes' theorem - ~~강의영상~~
-- Single variable bayes classifier - ~~강의영상~~
-- Navie bayesian Classifier - ~~강의영상~~
-- NB Classifier Implementation - ~~강의영상~~
-- Multinomial Naive Bayes - ~~강의영상~~
-- Gaussian Naive Bayes - ~~강의영상~~
-- NB classifier with sklearn - ~~강의영상~~
-- 20news group classifaication - ~~강의영상#1~~, ~~#2~~
+- Chapter overview - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_11.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch11)
+- Probability overview - [강의영상](https://vimeo.com/261126214)
+- Bayes' theorem - [강의영상](https://vimeo.com/261126257)
+- Single variable bayes classifier - [강의영상](https://vimeo.com/261413573)
+- Navie bayesian Classifier - [강의영상](https://vimeo.com/261413607)
+- NB Classifier Implementation - [강의영상](https://vimeo.com/261413626)
+- Multinomial Naive Bayes - [강의영상](https://vimeo.com/261413638)
+- Gaussian Naive Bayes - [강의영상](https://vimeo.com/261444922)
+- NB classifier with sklearn - [강의영상](https://vimeo.com/261444945)
+- 20news group classifaication - [강의영상#1](https://vimeo.com/261836497), [#2](https://vimeo.com/261836660)
 
 #### Supplements
 - Text hadnling Lab: News categorization - ~~강의영상#1~~, ~~#2~~, [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQGMbDTaK5uD6cjHg)
