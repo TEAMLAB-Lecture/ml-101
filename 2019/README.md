@@ -174,30 +174,29 @@
 
 ### Chapter 12 - Decision Tree
 #### Lecture
-- Chapter overview - ~~강의영상~~, [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch12)
-- Decision tree overview - ~~강의영상~~
-- The concept of entropy - ~~강의영상~~
-- The algorithme of growing decision tree - ~~강의영상~~
-- ID3 & Information gain - ~~강의영상~~
-- CART & Gini Index - ~~강의영상~~
-- Tree pruning - ~~강의영상~~
-- Decision Tree with sklearn - ~~강의영상~~
-- Handling a continuous attribute - ~~강의영상~~
-- Decision Tree for Regression - ~~강의영상~~
-<!-- - Regression Tree with sklearn - [코드](./code/ch8/6_regress_tree_with_sklearn.ipynb) -->
+- Chapter overview - [강의영상](https://www.youtube.com/watch?v=9XhDaeC-Guk), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_12.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch12)
+- Decision tree overview - [강의영상](https://vimeo.com/262963562)
+- The concept of entropy - [강의영상](https://vimeo.com/262963619)
+- The algorithme of growing decision tree - [강의영상](https://vimeo.com/262963652)
+- ID3 & Information gain - [강의영상](https://vimeo.com/263114919)
+- CART & Gini Index - [강의영상](https://vimeo.com/263115155)
+- Tree pruning - [강의영상](https://vimeo.com/263114857)
+- Decision Tree with sklearn - [강의영상](https://vimeo.com/265128789)
+- Handling a continuous attribute - [강의영상](https://vimeo.com/265129103)
+- Decision Tree for Regression - [강의영상](https://vimeo.com/265128477)
 
 ### Chapter 13 - Ensemble
 #### Lecture
 - Chapter intro - [강의영상](), [강의자료](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/lecture_note_week_13.pdf), [강의코드](https://github.com/TeamLab/machine_learning_from_scratch_with_python/tree/master/code/ch13)
-- Ensemble model overview - ~~강의영상~~
-- Voting classifier - ~~강의영상~~
-- Bagging - ~~강의영상~~
-- Random Forest - ~~강의영상~~
-- AdaBoost - ~~강의영상~~
-- Gradient boosting - ~~강의영상#1~~, ~~영상#2~~
-- XGBoost & LightGBM - ~~강의영상~~
-- Installation guide on Windows - ~~강의영상~~, [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch13/xgboost_installation_guide.md)
-- Stacking - ~~강의영상~~
+- Ensemble model overview - [강의영상](https://vimeo.com/266049008)
+- Voting classifier - [강의영상](https://vimeo.com/266607794)
+- Bagging - [강의영상](https://vimeo.com/266607845)
+- Random Forest - [강의영상](https://vimeo.com/266658129)
+- AdaBoost - [강의영상](https://vimeo.com/267610147)
+- Gradient boosting - [강의영상#1](https://vimeo.com/269764197), [영상#2](https://vimeo.com/269764482)
+- XGBoost & LightGBM - [강의영상](https://vimeo.com/272060904)
+- Installation guide on Windows - [강의영상](https://vimeo.com/272061288), [강의자료](https://github.com/TeamLab/machine_learning_from_scratch_with_python/blob/master/code/ch13/xgboost_installation_guide.md)
+- Stacking - [강의영상](https://vimeo.com/272061773)
 
 ### Chapter 14 - Performance tuning
 #### Lecture
@@ -214,11 +213,6 @@
 #### Reference
 - Feature Selection with Null Importances - [한글번역](https://databreak.netlify.com/2019-04-21-Null_importance/?fbclid=IwAR0RAhtKCgo1_WZ-4F8BdG0N5X7GrGqI0QcgepWYYBHL9EdtGW3wsd1P370), [영문원판](https://www.kaggle.com/ogrellier/feature-selection-with-null-importances)
 
-### Chapter 14 - Support Vector Model
-#### Lecture
-
-### Chapter 15 - Neural Network
-#### Lecture
 
 ## 참고자료
 * [Machine Learning](https://www.coursera.org/learn/machine-learning/) (Couera) by Andrew Ng  
